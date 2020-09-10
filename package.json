@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/histef/messageBoard/issues"
   },
-  "homepage": "https://github.com/histef/messageBoard#readme"
+  "homepage": "https://github.com/histef/messageBoard#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pg": "^8.3.3"
+  }
 }
